@@ -1,6 +1,6 @@
 module github.com/GoogleCloudPlatform/cloud-logging-data-source-plugin
 
-go 1.23.0
+go 1.24.0
 
 toolchain go1.24.2
 
@@ -9,7 +9,7 @@ require (
 	github.com/grafana/grafana-google-sdk-go v0.2.1
 	github.com/grafana/grafana-plugin-sdk-go v0.250.0
 	github.com/stretchr/testify v1.10.0
-	golang.org/x/oauth2 v0.29.0
+	golang.org/x/oauth2 v0.34.0
 	google.golang.org/api v0.229.0
 	google.golang.org/genproto v0.0.0-20250425173222-7b384671a197
 	google.golang.org/genproto/googleapis/api v0.0.0-20250425173222-7b384671a197
