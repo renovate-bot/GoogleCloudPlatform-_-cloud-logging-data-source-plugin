@@ -20,7 +20,7 @@
     "rxjs": "7.3.0",
     "eslint-plugin-jsdoc": "^50.6.17",
     "@babel/core": "^7.24.0",
-    "@types/react": "^17.0.2"
+    "@types/react": "^19.0.0"
   },
   "engines": {
     "node": ">=20"
@@ -31,7 +31,7 @@
     "@grafana/runtime": "^9.0.2",
     "@grafana/toolkit": "^9.0.2",
     "@grafana/ui": "^9.0.2",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
   }
 }
